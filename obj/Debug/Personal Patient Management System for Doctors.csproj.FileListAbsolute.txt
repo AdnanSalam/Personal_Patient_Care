@@ -1,0 +1,54 @@
+E:\Project\Personal Patient Management System for Doctors\bin\Debug\Personal Patient Management System for Doctors.exe.config
+E:\Project\Personal Patient Management System for Doctors\bin\Debug\Personal Patient Management System for Doctors.exe
+E:\Project\Personal Patient Management System for Doctors\bin\Debug\Personal Patient Management System for Doctors.pdb
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AssistantMenu.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Properties.Resources.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.csproj.GenerateResource.cache
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.exe.licenses
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.csproj.CoreCompileInputs.cache
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.exe
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.pdb
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AddPatient.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DeletePatient.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AssistantLogin.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DoctorLogin.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.Login.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DoctorMenu.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.CheckPatient.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DoctorRegistration.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AssistantRegistration.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AddPrescription.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.PrescribeTest.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.CheckPreviousPrescription.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.CheckHealthRecord.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AddHealthRecord.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.UpdateHealthRecord.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.UpdatePatient.resources
+E:\Project\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.csprojAssemblyReference.cache
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\bin\Debug\Personal Patient Management System for Doctors.exe.config
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\bin\Debug\Personal Patient Management System for Doctors.exe
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\bin\Debug\Personal Patient Management System for Doctors.pdb
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.csprojAssemblyReference.cache
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AddHealthRecord.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AddPatient.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AddPrescription.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AssistantLogin.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AssistantMenu.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.AssistantRegistration.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.CheckHealthRecord.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.CheckPatient.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.CheckPreviousPrescription.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DeletePatient.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DoctorLogin.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DoctorMenu.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.DoctorRegistration.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.Login.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.PrescribeTest.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.UpdateHealthRecord.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Presentation_Layer.UpdatePatient.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal_Patient_Management_System_for_Doctors.Properties.Resources.resources
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.csproj.GenerateResource.cache
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.exe.licenses
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.csproj.CoreCompileInputs.cache
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.exe
+E:\AIUB\6 - Sixth Trimester\OOP2 FINAL CODES\Personal Patient Management System for Doctors\obj\Debug\Personal Patient Management System for Doctors.pdb
